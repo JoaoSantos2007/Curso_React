@@ -21,7 +21,7 @@ Ao finalizar o curso, recebi um certificado oficial de conclusão pela Udemy.
 
 Para mais informações ou colaborações, entre em contato:
 
-- **E-mail**: seu-email@exemplo.com
+- **E-mail**: joao.santos.2007sp@gmail.com
 - **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/joaosantos2007/)
 - **GitHub**: [Seu Repositório](https://github.com/JoaoSantos2007)
 
